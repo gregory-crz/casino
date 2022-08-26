@@ -1,0 +1,21 @@
+{
+  "name": "random-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "chokidar": "^3.5.3",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.19",
+    "nunjucks": "^3.2.3"
+  }
+}
